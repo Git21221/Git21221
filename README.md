@@ -18,11 +18,11 @@
 <a href="https://linkedin.com/in/saikat-das-794711243" target="blank"><img align="center" src="https://blog.waalaxy.com/wp-content/uploads/2021/01/LinkedIn-Symbole-768x432.png" alt="saikat-das-794711243" height="30" width="55" /></a><a href="https://www.leetcode.com/saikatdass" target="blank"><img align="center" src="https://scontent.fccu2-3.fna.fbcdn.net/v/t39.30808-6/305317853_616467910000160_3824851731065368025_n.png?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_aid=0&_nc_ohc=z735yHGhdwAAX8MNXUX&_nc_ht=scontent.fccu2-3.fna&oh=00_AfAsdsaoqyonFq8j6zjw8jPYVcDPyliMmwNOlAg2Dp44Uw&oe=6477E15B" alt="saikatdass" height="30" width="30" /></a>&nbsp;<a href="https://auth.geeksforgeeks.org/user/saikatdas2001" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="saikatdas2001" height="30" width="40" /></a>
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/saikatdass?theme=light&font=Inder)
+![LeetCode Stats](https://leetcard.jacoblin.cool/saikatdass?theme=dark&font=Inder)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=git21221&show_icons=true&locale=en&layout=compact" alt="git21221" /></p>
+<p><img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Git21221&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git21221&show_icons=true&locale=en" alt="git21221" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git21221&show_icons=true&locale=en&bg_color=000325" alt="git21221" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=git21221&" alt="git21221" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=git21221&&bg_color=000325" alt="git21221" /></p>
