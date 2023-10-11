@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saikat Das</h1>
 <h3 align="center">A Frontend Developer and also learning backend with MERN.</h3>
-<img align=”right” width=400 src=”https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif”>
+<img align=”right” width=600 src=”https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git21221&label=Profile%20views&color=0e75b6&style=flat" alt="git21221" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=git21221" alt="git21221" /></a> </p>
