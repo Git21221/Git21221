@@ -19,10 +19,3 @@
 </p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/saikatdass?theme=dark&font=Inder)
-
-
-<p><img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Git21221&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git21221&show_icons=true&locale=en&bg_color=000325" alt="git21221" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=git21221&&bg_color=000325" alt="git21221" /></p>
