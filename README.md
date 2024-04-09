@@ -19,3 +19,4 @@
 </p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/saikatdass?theme=dark&font=Inder)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=git21221&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Top Languages" />
