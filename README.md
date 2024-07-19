@@ -14,8 +14,9 @@
 - 📫 How to reach me **saikatdas40g@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saikat-das-794711243" target="blank"><img align="center" src="https://blog.waalaxy.com/wp-content/uploads/2021/01/LinkedIn-Symbole-768x432.png" alt="saikat-das-794711243" height="30" width="55" /></a><a href="https://www.leetcode.com/saikatdass" target="blank"><img align="center" src="https://scontent.fccu2-3.fna.fbcdn.net/v/t39.30808-6/305317853_616467910000160_3824851731065368025_n.png?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_aid=0&_nc_ohc=z735yHGhdwAAX8MNXUX&_nc_ht=scontent.fccu2-3.fna&oh=00_AfAsdsaoqyonFq8j6zjw8jPYVcDPyliMmwNOlAg2Dp44Uw&oe=6477E15B" alt="saikatdass" height="30" width="30" /></a>&nbsp;<a href="https://auth.geeksforgeeks.org/user/saikatdas2001" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="saikatdas2001" height="30" width="40" /></a>
+<p align="left" style="display: flex; row-gap:10px">
+<a href="https://linkedin.com/in/saikat-das-794711243" target="blank"><img align="center" src="https://blog.waalaxy.com/wp-content/uploads/2021/01/LinkedIn-Symbole-768x432.png" alt="saikat-das-794711243" height="30" width="55" /></a>
+<a href="https://www.leetcode.com/saikatdass" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png " alt="saikatdass" height="30" width="30" /></a>&nbsp;<a href="https://auth.geeksforgeeks.org/user/saikatdas2001" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="saikatdas2001" height="30" width="40" /></a>
 </p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/saikatdass?theme=dark&font=Inder)
